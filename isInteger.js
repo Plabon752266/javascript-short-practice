@@ -19,5 +19,5 @@ function isInteger(num) {
     
 }
 
-const outputGivenNumber = isInteger(825);
+const outputGivenNumber = isInteger(-5);
 console.log(outputGivenNumber);
